@@ -17,6 +17,6 @@ Love Linux opensourse ecosystem.
 - HTML & CSS: used in building websites.
 - Lua: my neovim config.
 #### Interested in
-Local AI models
-AI development
-AI usage in dev workflow
+- Local AI models
+- AI development
+- AI usage in dev workflow
