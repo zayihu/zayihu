@@ -13,6 +13,10 @@ Love Linux opensourse ecosystem.
 #### Languages and ecosystems
 - PHP: use in scripting and website building with WordPress and Laravel.
 - Python: scripting & FastAPI, async & websockets.
-- TypeScript/JS: React, Redux with Vite and Tauri.
+- TypeScript/JS: NextJS, React, Redux with Vite and Tauri.
 - HTML & CSS: used in building websites.
 - Lua: my neovim config.
+#### Interested in
+Local AI models
+AI development
+AI usage in dev workflow
