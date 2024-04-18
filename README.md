@@ -3,12 +3,6 @@
 Self-taught Full Stack developer.
 Love Linux opensourse ecosystem.
 
-#### Everyday work setup
-- Arch Linux as OS
-- KDE as desktop environment
-- Kitty as terminal emulator
-- Neovim as IDE & Code editor
-- Zellij as terminal multiplexer
 
 #### Languages and ecosystems
 - PHP: use in scripting and website building with WordPress and Laravel.
@@ -16,6 +10,14 @@ Love Linux opensourse ecosystem.
 - TypeScript/JS: NextJS, React, Redux with Vite and Tauri.
 - HTML & CSS: used in building websites.
 - Lua: my neovim config.
+
+#### Everyday work setup
+- Arch Linux as OS
+- KDE as desktop environment
+- Kitty as terminal emulator
+- Neovim as IDE & Code editor
+- Zellij as terminal multiplexer
+
 #### Interested in
 - Local AI models
 - AI development
