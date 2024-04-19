@@ -1,15 +1,13 @@
 ### Hi, I am Samvit.
+<p>Web Full Stack developer</p>
+<p>Love Linux and opensourse ecosystem 🚀</p>
 
-Self-taught Full Stack developer.
-Love Linux opensourse ecosystem.
-
-
-#### Languages and ecosystems
-- PHP: use in scripting and website building with WordPress and Laravel.
-- Python: scripting & FastAPI, async & websockets.
-- TypeScript/JS: NextJS, React, Redux with Vite and Tauri.
-- HTML & CSS: used in building websites.
-- Lua: my neovim config.
+#### Languages
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 #### Everyday work setup
 - Arch Linux as OS
@@ -18,7 +16,7 @@ Love Linux opensourse ecosystem.
 - Neovim as IDE & Code editor
 - Zellij as terminal multiplexer
 
-#### Interested in
-- Local AI models
-- AI development
-- AI usage in dev workflow
+#### Interested in/Want to learn in future
+- Rust
+- AI & Machine Learning
+- Blockchain and Decentralized Web
