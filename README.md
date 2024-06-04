@@ -1,6 +1,7 @@
 ### Hi, I am Samvit.
 <p>Web Full Stack developer</p>
 <p>Love Linux and opensourse ecosystem 🚀</p>
+<p>Customize things for myself 🛠️</p>
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
