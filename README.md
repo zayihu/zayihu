@@ -1,5 +1,5 @@
 ### Hi, I am Samvit.
-<p>Web Full Stack developer</p>
+<p>Web Full Stack developer 🧪</p>
 <p>Love Linux and opensourse ecosystem 🚀</p>
 <p>Customize things for myself 🛠️</p>
 
@@ -11,13 +11,13 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 #### Everyday work setup
-- Arch Linux as OS
-- KDE as desktop environment
-- Kitty as terminal emulator
-- Neovim as IDE & Code editor
-- Zellij as terminal multiplexer
+-✅ Arch Linux as OS
+-✅ KDE as desktop environment
+-✅ Kitty as terminal emulator
+-✅ Neovim as IDE & Code editor
+-✅ Zellij as terminal multiplexer
 
 #### Interested in/Want to learn in future
-- Rust
-- AI & Machine Learning
-- Blockchain and Decentralized Web
+-📖 Rust
+-📖 AI & Machine Learning
+-📖 Blockchain and Decentralized Web
