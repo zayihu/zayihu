@@ -13,7 +13,7 @@
 #### Everyday work setup
 ✅ Arch Linux as OS
   
-✅ KDE as desktop environment
+✅ KDE & Hyprland as desktop environments
   
 ✅ Kitty as terminal emulator
   
