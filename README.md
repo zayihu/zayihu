@@ -1,6 +1,6 @@
 ### 👋 Hi, I am Samvit.
 <p>Web Full Stack developer 🧪</p>
-<p>Love Linux and opensourse ecosystem 🚀</p>
+<p>Love Linux, Neovim and opensourse ecosystem 🚀</p>
 <p>Customize things for myself 🛠️</p>
 
 #### Languages
